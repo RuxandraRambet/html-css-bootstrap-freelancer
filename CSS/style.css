@@ -1,0 +1,29 @@
+/* VARIABLES */
+:root {
+   --header-color: #2c3e50;
+   --main-color: #1abc9c; 
+   --footer-primary-color: #3a546d;
+   --footer-secondary-color: #2c3e50;
+}
+
+/* HEADER */
+header {
+    background-color: var(--header-color);
+}
+
+/* MAIN */
+#jumbotron {
+    background-color: var(--main-color);
+}
+#portfolio .bg-red .col-12 {
+    background-color: red;
+    border: 1px solid black;
+}
+
+/* FOOTER */
+footer {
+    background-color: var(--footer-primary-color);
+}
+.footer-bottom {
+    background-color: var(--footer-secondary-color);
+}
