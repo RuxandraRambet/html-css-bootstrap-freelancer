@@ -12,7 +12,8 @@ header {
 }
 
 /* MAIN */
-#jumbotron {
+#jumbotron,
+#about {
     background-color: var(--main-color);
 }
 #portfolio .bg-red .col-12 {
