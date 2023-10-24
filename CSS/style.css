@@ -80,7 +80,9 @@ header {
     background-color: inherit;
     border-color: white;
 } 
-
+#contact .btn.send {
+    background-color: var(--main-color);
+}
 /* FOOTER */
 footer {
     background-color: var(--footer-primary-color);
